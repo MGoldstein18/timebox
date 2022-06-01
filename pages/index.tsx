@@ -142,7 +142,7 @@ const Home: NextPage = () => {
 
   return (
     <Flex direction='column'>
-      <VStack mt='2rem'>
+      <VStack textAlign={'center'} mt='2rem'>
         <Heading fontFamily={'monospace'} color='steelblue' fontSize='62px'>
           TimeBox
         </Heading>
